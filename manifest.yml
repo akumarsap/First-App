@@ -1,6 +1,6 @@
 ---
 applications:
 - name: FirstApp
-  host: <node>
+  host: <First-App>
   path: FirstApp
   memory: 128M
